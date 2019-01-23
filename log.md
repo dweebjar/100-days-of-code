@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: January 22, 2019
-##### (delete me or comment me out)
 
 **Today's Progress**: Finished Jonas.io complete JS course. 
 
